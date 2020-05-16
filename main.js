@@ -83,11 +83,11 @@ function setMenu() {
           },
         },
         {
-          label: "8000",
+          label: "3000",
           sublabel: "Lite Server",
           accelerator: "F3",
           click() {
-            win.loadURL("http://localhost:8000/");
+            win.loadURL("http://localhost:3000/");
           },
         },
       ],
