@@ -36,7 +36,7 @@ Utilize uma janela para webview de seus projetos em desenvolvimento com ferramen
 - Ctrl + W&nbsp;&nbsp;&nbsp;&nbsp;Fecha a aplicação
 - F1&nbsp;&nbsp;&nbsp;&nbsp;Redireciona para aplicação no Port 5500
 - F2&nbsp;&nbsp;&nbsp;&nbsp;Redireciona para aplicação no Port 8080
-- F3&nbsp;&nbsp;&nbsp;&nbsp;Redireciona para aplicação no Port 8000
+- F3&nbsp;&nbsp;&nbsp;&nbsp;Redireciona para aplicação no Port 3000
 
 <p align="center">
   <img alt="Screen2" src="https://i.imgur.com/TYEABaG.png">
